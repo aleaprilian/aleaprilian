@@ -124,24 +124,24 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/aleaprilian"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleaprilian&show_icons=true&locale=en&theme=algolia" alt="aleaprilian" height="192px"/></a>
-	</p>
-	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aleaprilian" height="192px"/>
-	</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <a href="https://github.com/aleaprilian">
+      <img align="center" src="https://github-readme-stats.demolab.com/api?username=aleaprilian&show_icons=true&locale=en&theme=algolia" alt="GitHub Profile Stats" height="192px"/>
+    </a>
   </p>
+  <p align="center">
+    <img src="https://github-readme-stats.demolab.com/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
+  </p>
+  <br/>
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	<a href="https://github.com/aleaprilian"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=ale%20aprilian's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/aleaprilian">
+    <img alt="Ale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=Ale%20Aprilian's%20Contribution%20Graph&theme=react-dark" />
+  </a>
   <br/>
-
 </details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect
