@@ -120,34 +120,37 @@
 
 ## 📊 Github Stats (Expand to View)
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/aleaprilian">
-      <img src="https://github-readme-stats.vercel.app/api?username=aleaprilian&show_icons=true&locale=en&theme=algolia" alt="GitHub Profile Stats" />
-    </a>
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-  </div>
-  <br/>
-  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<details>
+<summary><b>💻 GitHub Profile Stats</b></summary>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/aleaprilian">
+  <img src="https://github-stats-extended.vercel.app/api?username=aleaprilian&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=github_dark_dimmed" alt="GitHub Stats" />
+</a>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+</div>
+<br/>
+
+<p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/aleaprilian">
-      <img alt="Ale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=Ale%20Aprilian's%20Contribution%20Graph&theme=react-dark" />
-    </a>
-  </div>
-  <br/>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/aleaprilian">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=Ale%20Aprilian's%20Contribution%20Graph&theme=react-dark" alt="Activity Graph" />
+  </a>
+</div>
+<br/>
 </details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 
 <p align="center">
   <a href="https://aleaprilian.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
