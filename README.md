@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Ale Aprilian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Android%20IoT+Enthusiast&center=true&width=500&height=50&font=georgia"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?lines=Full-Stack+Web+Developer;Android+%26+IoT+Enthusiast&center=true&width=500&height=50&font=georgia" alt="Typing SVG">
+</a>
 </p>
 <hr/>
 <h4 align="center">I am an undergraduate student at Universitas Riau with a strong passion for software development and hardware integration. I enjoy designing responsive web layouts, optimizing Oracle SQL databases, and building Android applications using Jetpack Compose. I am constantly exploring new technologies, from UI/UX design in Figma to securing robotics systems.</h4>
