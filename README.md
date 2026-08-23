@@ -123,38 +123,42 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <div align="center">
     <a href="https://github.com/aleaprilian">
-      <img align="center" src="https://github-readme-stats.demolab.com/api?username=aleaprilian&show_icons=true&locale=en&theme=algolia" alt="GitHub Profile Stats" height="192px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=aleaprilian&show_icons=true&locale=en&theme=algolia" alt="GitHub Profile Stats" />
     </a>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.demolab.com/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" height="192px"/>
-  </p>
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+  </div>
   <br/>
+  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-  <a href="https://github.com/aleaprilian">
-    <img alt="Ale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=Ale%20Aprilian's%20Contribution%20Graph&theme=react-dark" />
-  </a>
+  <div align="center">
+    <a href="https://github.com/aleaprilian">
+      <img alt="Ale's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aleaprilian&custom_title=Ale%20Aprilian's%20Contribution%20Graph&theme=react-dark" />
+    </a>
+  </div>
   <br/>
 </details>
+
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
   <a href="https://aleaprilian.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:aprilianale@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/aleaprilian"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aleaprilianputraanton/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/aleeaprilian"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+  <a href="mailto:aprilianale@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/aleaprilian"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/aleaprilianputraanton/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://instagram.com/aleeaprilian"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 </p>
+
+
 
 <!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
