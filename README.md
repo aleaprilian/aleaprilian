@@ -129,8 +129,9 @@
   <img src="https://github-stats-extended.vercel.app/api?username=aleaprilian&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&include_all_commits=true&theme=github_dark_dimmed" alt="GitHub Stats" />
 </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleaprilian&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
-</div>
+  <a href="https://github.com/aleaprilian">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=aleaprilian&langs_count=4&theme=dark" alt="Top Languages" />
+</a>
 <br/>
 
 <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
